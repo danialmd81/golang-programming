@@ -1,0 +1,14 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+*.mp4
+*.srt
+*.jpg
+*.png
+*.rar
+
+2.Golang In Windows/2. Install Golang and VSCode IDE in Windows Practical.mp4
+2.Golang In Windows/2. Install Golang and VSCode IDE in Windows Practical.srt
